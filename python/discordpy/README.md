@@ -9,7 +9,7 @@ $ pip install -r requirements.txt
 
 ## Others
 
-### Environmental variables are stored in [.envrc](https://direnv.net/)
+#### Environmental variables are stored in [.envrc](https://direnv.net/)
 
 Required environmental variables:
 
