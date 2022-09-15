@@ -9,8 +9,8 @@ $ pip install -r requirements.txt
 
 ## Others
 
-> :information_source: Environmental variables are stored in [.envrc](https://direnv.net/)
->
-> Required environmental variables:
->
-> 1.  SECRET_KEY (Token for the Bot)
+### Environmental variables are stored in [.envrc](https://direnv.net/)
+
+Required environmental variables:
+
+1.  SECRET_KEY (Token for the Bot)
