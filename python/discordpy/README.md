@@ -11,4 +11,4 @@ $ pip install -r requirements.txt
 
 ### Environmental variables (stored in [.envrc](https://direnv.net/)) requires:
 
-1.  SECRET_KEY (Token for the Bot)
+1.  `SECRET_KEY` (Token for the Bot)
