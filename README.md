@@ -58,7 +58,7 @@ To get a local copy of specific directory up and running follow these simple exa
 1. Copy url of the directory
 
    ```
-   https://github.com/lgf2111/boilerplates/tree/main/python
+   https://github.com/lgf2111/boilerplates/tree/main/python/discordpy
    ```
 
 2. Download the directory through [DownGit](downgit.github.io)
@@ -74,19 +74,19 @@ To get a local copy of specific directory up and running follow these simple exa
 1. Copy url of the directory
 
    ```
-   https://github.com/lgf2111/boilerplates/tree/main/python
+   https://github.com/lgf2111/boilerplates/tree/main/python/discordpy
    ```
 
 2. Replace `/tree/main` with `/trunk`
 
    ```
-   https://github.com/lgf2111/boilerplates/trunk/python
+   https://github.com/lgf2111/boilerplates/trunk/python/discordpy
    ```
 
 3. Install the directory with `svn`
 
    ```bash
-   $ svn checkout https://github.com/lgf2111/boilerplates/trunk/python
+   $ svn checkout https://github.com/lgf2111/boilerplates/trunk/python/discordpy
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
