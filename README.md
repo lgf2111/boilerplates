@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@lgf2111](https://twitter.com/lgf2111) - lgf2111@gmail.com
+lgf2111 - [@lgf2111](https://twitter.com/lgf2111) - lgf2111@gmail.com
 
 Project Link: [https://github.com/lgf2111/boilerplates](https://github.com/lgf2111/boilerplates)
 
