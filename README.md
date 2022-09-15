@@ -62,6 +62,8 @@ To get a local copy of specific directory up and running follow these simple exa
 
 2. Download the directory through [DownGit](downgit.github.io)
 
+<hr>
+
 ### Method 2
 
 #### Prerequisites
