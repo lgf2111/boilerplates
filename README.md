@@ -37,8 +37,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#method-1">Prerequisites</a></li>
-        <li><a href="#method-2">Installation</a></li>
+        <li><a href="#method-1">Method 1 (DownGit)</a></li>
+        <li><a href="#method-2">Method 2 (svn)</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
