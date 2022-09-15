@@ -52,7 +52,7 @@
 
 To get a local copy of specific directory up and running follow these simple example steps.
 
-### Method 1 ([DownGit](downgit.github.io))
+### Method 1
 
 1. Copy url of the directory
 
@@ -62,7 +62,7 @@ To get a local copy of specific directory up and running follow these simple exa
 
 2. Download the directory through [DownGit](downgit.github.io)
 
-### Method 2 ([svn](https://svnbook.red-bean.com/))
+### Method 2
 
 #### Prerequisites
 
