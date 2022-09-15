@@ -35,21 +35,20 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#usage">Usage</a>
       <ul>
         <li><a href="#method-1">Method 1 (DownGit)</a></li>
         <li><a href="#method-2">Method 2 (svn)</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-<!-- GETTING STARTED -->
+<!-- USAGE -->
 
-## Getting Started
+## Usage
 
 To get a local copy of specific directory up and running follow these simple example steps.
 
