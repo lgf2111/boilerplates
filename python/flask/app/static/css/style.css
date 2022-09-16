@@ -1,0 +1,7 @@
+footer {
+  box-shadow: 0 100vh 0 100vh #f8f9fa;
+}
+
+.toast-container {
+  z-index: 99;
+}
